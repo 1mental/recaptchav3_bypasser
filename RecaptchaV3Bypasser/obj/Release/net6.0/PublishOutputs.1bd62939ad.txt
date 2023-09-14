@@ -1,0 +1,5 @@
+C:\Users\Mr\source\repos\RecaptchaV3Bypasser\RecaptchaV3Bypasser\bin\Release\net6.0\publish\RecaptchaV3Bypasser.exe
+C:\Users\Mr\source\repos\RecaptchaV3Bypasser\RecaptchaV3Bypasser\bin\Release\net6.0\publish\RecaptchaV3Bypasser.dll
+C:\Users\Mr\source\repos\RecaptchaV3Bypasser\RecaptchaV3Bypasser\bin\Release\net6.0\publish\RecaptchaV3Bypasser.deps.json
+C:\Users\Mr\source\repos\RecaptchaV3Bypasser\RecaptchaV3Bypasser\bin\Release\net6.0\publish\RecaptchaV3Bypasser.runtimeconfig.json
+C:\Users\Mr\source\repos\RecaptchaV3Bypasser\RecaptchaV3Bypasser\bin\Release\net6.0\publish\RecaptchaV3Bypasser.pdb

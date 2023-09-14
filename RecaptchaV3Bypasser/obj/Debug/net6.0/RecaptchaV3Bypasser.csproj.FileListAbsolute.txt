@@ -1,0 +1,15 @@
+C:\Users\Mr\source\repos\RecaptchaV3Bypasser\RecaptchaV3Bypasser\bin\Debug\net6.0\RecaptchaV3Bypasser.exe
+C:\Users\Mr\source\repos\RecaptchaV3Bypasser\RecaptchaV3Bypasser\bin\Debug\net6.0\RecaptchaV3Bypasser.deps.json
+C:\Users\Mr\source\repos\RecaptchaV3Bypasser\RecaptchaV3Bypasser\bin\Debug\net6.0\RecaptchaV3Bypasser.runtimeconfig.json
+C:\Users\Mr\source\repos\RecaptchaV3Bypasser\RecaptchaV3Bypasser\bin\Debug\net6.0\RecaptchaV3Bypasser.dll
+C:\Users\Mr\source\repos\RecaptchaV3Bypasser\RecaptchaV3Bypasser\bin\Debug\net6.0\RecaptchaV3Bypasser.pdb
+C:\Users\Mr\source\repos\RecaptchaV3Bypasser\RecaptchaV3Bypasser\obj\Debug\net6.0\RecaptchaV3Bypasser.csproj.AssemblyReference.cache
+C:\Users\Mr\source\repos\RecaptchaV3Bypasser\RecaptchaV3Bypasser\obj\Debug\net6.0\RecaptchaV3Bypasser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr\source\repos\RecaptchaV3Bypasser\RecaptchaV3Bypasser\obj\Debug\net6.0\RecaptchaV3Bypasser.AssemblyInfoInputs.cache
+C:\Users\Mr\source\repos\RecaptchaV3Bypasser\RecaptchaV3Bypasser\obj\Debug\net6.0\RecaptchaV3Bypasser.AssemblyInfo.cs
+C:\Users\Mr\source\repos\RecaptchaV3Bypasser\RecaptchaV3Bypasser\obj\Debug\net6.0\RecaptchaV3Bypasser.csproj.CoreCompileInputs.cache
+C:\Users\Mr\source\repos\RecaptchaV3Bypasser\RecaptchaV3Bypasser\obj\Debug\net6.0\RecaptchaV3Bypasser.dll
+C:\Users\Mr\source\repos\RecaptchaV3Bypasser\RecaptchaV3Bypasser\obj\Debug\net6.0\refint\RecaptchaV3Bypasser.dll
+C:\Users\Mr\source\repos\RecaptchaV3Bypasser\RecaptchaV3Bypasser\obj\Debug\net6.0\RecaptchaV3Bypasser.pdb
+C:\Users\Mr\source\repos\RecaptchaV3Bypasser\RecaptchaV3Bypasser\obj\Debug\net6.0\RecaptchaV3Bypasser.genruntimeconfig.cache
+C:\Users\Mr\source\repos\RecaptchaV3Bypasser\RecaptchaV3Bypasser\obj\Debug\net6.0\ref\RecaptchaV3Bypasser.dll

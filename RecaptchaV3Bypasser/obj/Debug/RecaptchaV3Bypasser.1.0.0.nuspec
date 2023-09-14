@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>RecaptchaV3Bypasser</id>
+    <version>1.0.0</version>
+    <authors>RecaptchaV3Bypasser</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Mr\source\repos\RecaptchaV3Bypasser\RecaptchaV3Bypasser\bin\Debug\net6.0\RecaptchaV3Bypasser.runtimeconfig.json" target="lib\net6.0\RecaptchaV3Bypasser.runtimeconfig.json" />
+    <file src="C:\Users\Mr\source\repos\RecaptchaV3Bypasser\RecaptchaV3Bypasser\bin\Debug\net6.0\RecaptchaV3Bypasser.dll" target="lib\net6.0\RecaptchaV3Bypasser.dll" />
+  </files>
+</package>

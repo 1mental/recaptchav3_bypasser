@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9yTmUUZX3jN8aKACfgPJdKeBddKDi6Pk/MefcWEQCKoq80RF+aNIe1/P2NRUwY8frLqZgaPjfiSbJLS9Df3+9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mr\\source\\repos\\RecaptchaV3Bypasser\\RecaptchaV3Bypasser\\RecaptchaV3Bypasser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mr\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.16\\microsoft.netcore.app.runtime.win-x86.6.0.16.nupkg.sha512",
+    "C:\\Users\\Mr\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.16\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.16.nupkg.sha512",
+    "C:\\Users\\Mr\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.16\\microsoft.aspnetcore.app.runtime.win-x86.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
