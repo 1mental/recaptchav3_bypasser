@@ -1,4 +1,4 @@
-﻿using RecaptchaV3Bypasser.Recaptcha;
+using RecaptchaV3Bypasser.Recaptcha;
 using RecaptchaV3Bypasser.Server;
 
 
@@ -60,8 +60,11 @@ internal class Application
                     default:
                         PrintErrorMessage("Invalid Input!");
                         goto TakingInput;
+
                 }
             }
+            else
+                PrintErrorMessage($"Unhandled Exception : {ex.Message}");
 
             PrintSuccessMessage("Press Anykey to exit..");
             Console.ReadKey();
@@ -90,7 +93,7 @@ internal class Application
          new HttpServer(port);
 
 
-         PrintSuccessMessage($"HTTP Server Started Successfully!\n\n[ServerInfo] IP : Any (Such as localhost)\n[ServerInfo] Endpoint : /generatetoken\n[ServerInfo] Port : {port}");
+         PrintSuccessMessage($"HTTP Server Started Successfully!\n\n[ServerInfo] IP : localhost\n[ServerInfo] Endpoint : /generatetoken\n[ServerInfo] Port : {port}");
 
 
     }
