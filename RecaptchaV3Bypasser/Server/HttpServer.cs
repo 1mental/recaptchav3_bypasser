@@ -1,4 +1,4 @@
-﻿
+
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
@@ -24,7 +24,7 @@ namespace RecaptchaV3Bypasser.Server
             {
                 try
                 {
-                    Listener = new TcpListener(IPAddress.Any, port);
+                    Listener = new TcpListener(Dns.GetHostEntry("localhost").AddressList[0], port);
                     Listener.Start();
                 }
                 catch (SocketException ex)
@@ -108,13 +108,21 @@ namespace RecaptchaV3Bypasser.Server
                 }
                 catch(RecaptchaConnectionException ex)
                 {
-                    SendErrorResponse(client, 400, $"[RecaptchaConnectionException]:  {ex.Message}");
+                    SendErrorResponse(client, 500, $"[RecaptchaConnectionException]:  {ex.Message}");
                     return;
                 }
                 catch(TokenGenerationException ex)
                 {
-                    SendErrorResponse(client, 400, $"[TokenGenerationException]:  {ex.Message}");
+                    SendErrorResponse(client, 500, $"[TokenGenerationException]:  {ex.Message}");
                     
+                    return;
+                }catch(NullReferenceException ex)
+                {
+                    SendErrorResponse(client, 500, $"[NullReferenceException]:  {ex.Message}");
+                    return;
+                }catch(Exception ex)
+                {
+                    SendErrorResponse(client, 500, $"[Unhandled Exception]:  {ex.Message}");
                     return;
                 }
                 
