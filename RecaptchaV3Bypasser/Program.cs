@@ -54,7 +54,7 @@ internal class Application
                         Console.WriteLine(ex.Message);
                         break;
                     case 'n':
-                        PrintSuccessMessage("Exciting...");
+                        PrintSuccessMessage("Exiting...");
                         Environment.Exit(-1);
                         break;
                     default:
